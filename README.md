@@ -7,4 +7,5 @@ Dashboards made with Power BI
   The LinkedIn post for this dashboard can be found [here](https://www.linkedin.com/feed/update/urn:li:activity:7067571671318052864/)  
   
 - [Superstore Profit Report Dashboard](https://github.com/theabrahamaudu/dashboards/blob/main/superstore_profit_report.png)  
-  This dashboard was made with already cleaned data as part of an online learning capstone activity
+  This dashboard was made with already cleaned data as part of an online learning capstone activity  
+  The dataset can be found [here](https://github.com/theabrahamaudu/dashboards/blob/main/10.1%20Sample%20SuperStore.xlsx)
